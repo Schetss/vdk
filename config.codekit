@@ -56,6 +56,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/apple-touch-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5317,
+		"inputAbbreviatedPath": "\/apple-touch-icon.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/autoload.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -323,11 +334,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/0547ff25033d33f730c54e08c71d021e_AddThemeTemplate.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/0547ff25033d33f730c54e08c71d021e_AddThemeTemplate.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/05b6eb6e216699173fce49a7926ae5ac_Subnavigation.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/05b6eb6e216699173fce49a7926ae5ac_Subnavigation.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/05e2be7f0b1e68e63b0f418dd83b9ca6_Edit.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/05e2be7f0b1e68e63b0f418dd83b9ca6_Edit.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/0c158f7de9f6971fc202052f664821a3_Statistics.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/0c158f7de9f6971fc202052f664821a3_Statistics.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -359,11 +397,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/311699b7c0923597fb41a0a1cbc4fca9_Add.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/311699b7c0923597fb41a0a1cbc4fca9_Add.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/3916951c24b3dd8586a3c2b275a42121_Email.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/3916951c24b3dd8586a3c2b275a42121_Email.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/3df1ceb39f89657f9067b57056eb17b5_Add.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/3df1ceb39f89657f9067b57056eb17b5_Add.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -382,6 +438,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/5a77152760911835bf7e8eeb87981567_Themes.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/5e131db0024504de2b1685203426aa62_DetailTheme.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/5e131db0024504de2b1685203426aa62_DetailTheme.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -436,6 +501,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/6f2f09618665fadfcf5e871d50d85ec3_StructureStart.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/7148bbff45d50190745262db8efe9fab_Index.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/7148bbff45d50190745262db8efe9fab_Index.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -521,6 +595,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/af4157afb2164f8bacebd6b060504b58_EditThemeTemplate.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/af4157afb2164f8bacebd6b060504b58_EditThemeTemplate.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/b5ccf1a17f210bc04188a34cdcb8e9ee_StructureStartModule.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -535,6 +618,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/cbe669617709e6f3ee375adb1834c3ce_StructureStart.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/cea27a55bfa3c1e389dbbbd463741909_ThemeTemplates.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/cea27a55bfa3c1e389dbbbd463741909_ThemeTemplates.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -580,6 +672,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/ef1cec85ce202658b5024b9f7486dde0_Index.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/f82f5472fdd9205cb2edaabd84ec5515_Edit.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/f82f5472fdd9205cb2edaabd84ec5515_Edit.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -11302,11 +11403,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/201011daa87836c115b3730886fb044d_Navigation.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/201011daa87836c115b3730886fb044d_Navigation.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/31b7fc5ebce27af6ce46d33c5363a2e6_Form.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/31b7fc5ebce27af6ce46d33c5363a2e6_Form.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/33edd15dfaa53c23e2a532c12a99ecf4_Default1.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/33edd15dfaa53c23e2a532c12a99ecf4_Default1.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/37043e790d6b282088eeb3f60f0a68fd_Default.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/37043e790d6b282088eeb3f60f0a68fd_Default.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -11329,6 +11457,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/60dd444d1eacc8dad7996ef2d80d1d62_Sitemap.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/60dd444d1eacc8dad7996ef2d80d1d62_Sitemap.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/6ec17573d3ba2d4676e34a7d71d3da70_Header.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/6ec17573d3ba2d4676e34a7d71d3da70_Header.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/84ee47de9f7fc50c4a6e160d613bf801_Default.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -11338,11 +11484,65 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/8885c4dc29112cb51cd13331195bb158_Default.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/8885c4dc29112cb51cd13331195bb158_Default.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/8cc51984e723d8889766d1a423769e19_Sitemap.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/8cc51984e723d8889766d1a423769e19_Sitemap.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/ae2b4f9e873d0daf925ee8a2db70e8d9_Default3.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/ae2b4f9e873d0daf925ee8a2db70e8d9_Default3.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/cc7974b94585e45b64c8a9282eb98979_Home.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/cc7974b94585e45b64c8a9282eb98979_Home.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/cd2fd35d6e2362be863d14cc503a7e10_Footer.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/cd2fd35d6e2362be863d14cc503a7e10_Footer.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/d8f76e1ab47ee48002a269384314a63a_Form.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/d8f76e1ab47ee48002a269384314a63a_Form.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/e511a52c8b34c827bec5dbcff461daf5_Head.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/e511a52c8b34c827bec5dbcff461daf5_Head.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -11497,6 +11697,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/Navigation\/min\/editor_link_list_nl-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/min\/editor_link_list_nl-min.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/min\/min\/editor_link_list_nl-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/src\/Frontend\/Cache\/Navigation\/navigation_en.php": {
 		"fileType": 8192,
@@ -13126,6 +13337,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Themes\/vdk\/apple-touch-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5317,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/apple-touch-icon.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/ga.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -13181,28 +13403,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/jquery.visible.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/jquery.visible.min.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/min\/jquery.visible.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/pace.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/pace.min.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/min\/pace.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/theme-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -13220,17 +13420,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/modernizr.custom.js",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/modernizr.custom-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/respond.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/respond.min.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/respond.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -13871,15 +14060,63 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_articles.scss": {
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_2dehands.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_articles.scss",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_articles.css",
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_2dehands.scss",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_2dehands.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_afleveringen.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_afleveringen.scss",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_afleveringen.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_blog.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_blog.scss",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_blog.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_carousel.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_carousel.scss",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_carousel.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -13896,6 +14133,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_contact.scss",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_contact.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_cta.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_cta.scss",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_cta.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -13951,38 +14204,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_home.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_home.scss",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_home.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_labels.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_labels.scss",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_labels.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
 	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_navigation.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -13999,38 +14220,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_selectionlist.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_selectionlist.scss",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_selectionlist.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_service.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_service.scss",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_service.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
 	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_styleguide.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -14040,6 +14229,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_styleguide.scss",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_styleguide.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_vacatures.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/modules\/_vacatures.scss",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/Scss\/theme\/css\/_vacatures.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -14076,6 +14281,39 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
+		},
+	"\/src\/Frontend\/Themes\/vdk\/thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10520,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/thumbnail.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Themes\/vdk\/tile.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40937,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/tile.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/tile.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/tile.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40937,
+		"inputAbbreviatedPath": "\/tile.png",
+		"outputAbbreviatedPath": "\/tile.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/tools\/install_locale.php": {
 		"fileType": 8192,

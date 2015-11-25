@@ -14345,6 +14345,28 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/img\/5E9D898E33911878.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32383,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/img\/5E9D898E33911878.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/img\/5E9D898E33911878.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/img\/5E9D898E3391187B.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32490,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/img\/5E9D898E3391187B.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/img\/5E9D898E3391187B.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Themes\/vdk\/Core\/Layout\/img\/capped-grey.png": {
 		"fileType": 32768,
 		"ignore": 0,

@@ -11457,6 +11457,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/4fe36f1e77a34f61261e44eb9fe242f3_Default2.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/4fe36f1e77a34f61261e44eb9fe242f3_Default2.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/60dd444d1eacc8dad7996ef2d80d1d62_Sitemap.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,

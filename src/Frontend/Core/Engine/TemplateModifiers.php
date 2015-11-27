@@ -148,7 +148,9 @@ class TemplateModifiers
         $parentId = 0,
         $depth = null,
         $excludeIds = null,
-        $tpl = '/Core/Layout/Templates/Navigation.tpl'
+        $tpl = '/Core/Layout/Templates/Navigation.tpl',
+        $tpl2 = '/Core/Layout/Templates/Topnavigation.tpl'
+
     ) {
         // build excludeIds
         if ($excludeIds !== null) {
@@ -156,7 +158,13 @@ class TemplateModifiers
         }
 
         // get HTML
-        $return = (string) Navigation::getNavigationHtml($type, $parentId, $depth, $excludeIds, $tpl);
+        if ($type === 'page'){
+                $return = (string) Navigation::getNavigationHtml($type, $parentId, $depth, $excludeIds, $tpl);            
+        }
+
+        if ($type === 'footer'){
+                 $return = (string) Navigation::getNavigationHtml($type, $parentId, $depth, $excludeIds, $tpl2);            
+        }
 
         // return the var
         if ($return != '') {
@@ -290,6 +298,7 @@ class TemplateModifiers
         // fallback
         return $var;
     }
+
 
     /**
      * Get the URL for a given pageId & language

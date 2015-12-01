@@ -62,6 +62,11 @@ textarea:focus {
 	border-color: #666 #999 #999 #AAA;
 }
 
+.inputText {
+	width: 99%;
+	height: 20px;
+}
+
 /*
 	Inputs with a .code class get a monospaced font
 */

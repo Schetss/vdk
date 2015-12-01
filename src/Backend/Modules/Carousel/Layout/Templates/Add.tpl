@@ -6,14 +6,10 @@
 </div>
 
 {form:add}
-    <label for="titel">{$lblTitel|ucfirst}</label>
+    <label for="titel">Titel</label>
     {$txtTitel} {$txtTitelError}
 
     <div id="pageUrl">
-        <div class="oneLiner">
-            {option:detailURL}<p><span><a href="{$detailURL}{option:item}/{$item.url}{/option:item}">{$detailURL}/<span id="generatedUrl"></span></a></span></p>{/option:detailURL}
-            {option:!detailURL}<p class="infoMessage">{$errNoModuleLinked}</p>{/option:!detailURL}
-        </div>
     </div>
 
 
@@ -31,7 +27,7 @@
                         <div class="box">
                             <div class="heading">
                                 <h3>
-                                    <label for="subtitel">{$lblSubtitel|ucfirst}</label>
+                                    <label for="subtitel">Subtitel</label>
                                 </h3>
                             </div>
                             <div class="options">
@@ -42,14 +38,23 @@
                         <div class="box">
                             <div class="heading">
                                 <h3>
-                                    <label for="link">{$lblLink|ucfirst}</label>
+                                    <label for="link">Link</label>
                                 </h3>
                             </div>
                             <div class="options">
                                 {$txtLink}
                             </div>
                         </div>
-
+                        <div class="box">
+                            <div class="heading">
+                                <h3>
+                                    <label for="afbeelding">Afbeelding<abbr title="{$lblRequiredField}">*</abbr></label>
+                                </h3>
+                            </div>
+                            <div class="options">
+                                {$fileAfbeelding} {$fileAfbeeldingError}
+                            </div>
+                        </div>
 
 
 
@@ -57,32 +62,23 @@
 
                     <td id="sidebar">
 
+                            
+
                             <div class="box">
                                 <div class="heading">
                                     <h3>
-                                        <label for="afbeelding">{$lblAfbeelding|ucfirst}<abbr title="{$lblRequiredField}">*</abbr></label>
+                                       Tonen in carousel
                                     </h3>
                                 </div>
                                 <div class="options">
-                                    {$fileAfbeelding} {$fileAfbeeldingError}
+                                    {$chkToonDitBericht} <label for="toonDitBericht">Afspelen </label> {$chkToonDitBerichtError}
                                 </div>
                             </div>
 
                             <div class="box">
                                 <div class="heading">
                                     <h3>
-                                        {$lblToonDitBericht|ucfirst}
-                                    </h3>
-                                </div>
-                                <div class="options">
-                                    {$chkToonDitBericht} <label for="toonDitBericht">{$lblToonDitBericht|ucfirst} </label> {$chkToonDitBerichtError}
-                                </div>
-                            </div>
-
-                            <div class="box">
-                                <div class="heading">
-                                    <h3>
-                                        <label for="tags">{$lblTags|ucfirst}</label>
+                                        <label for="tags">{$lblTags|ucfirst} (optioneel)</label>
                                     </h3>
                                 </div>
                                 <div class="options">

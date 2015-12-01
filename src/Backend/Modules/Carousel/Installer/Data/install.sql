@@ -4,6 +4,7 @@ CREATE TABLE IF NOT EXISTS `carousel` (
  `language` varchar(5) NOT NULL,
  `titel` varchar(255) NOT NULL,
  `subtitel` varchar(255),
+ `link` varchar(255) NOT NULL,
  `afbeelding` varchar(255) NOT NULL,
  `toon_dit_bericht` ENUM('Y','N'),
  `created_on` datetime NOT NULL,

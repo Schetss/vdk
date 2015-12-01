@@ -92,4 +92,35 @@ class Model
         );
     }
 
+
+      /**
+     * Get all item
+     *
+     * @return int
+     */
+    public static function getAllCarousel()
+    {
+        $return = (array) FrontendModel::get('database')->getRecords(
+            'SELECT id, titel AS title, subtitel AS subtitle, afbeelding AS img, link as link
+            FROM carousel 
+            WHERE toon_dit_bericht = TRUE
+            ORDER BY sequence ASC',
+            array(),
+            'id'
+        );
+
+        // loop items and unserialize
+        foreach ($return as &$row) {
+            if (isset($row['meta_data'])) {
+                $row['meta_data'] = unserialize($row['meta_data']);
+            }
+        }
+
+        return $return;
+    }
+
+
+
+    
+
 }

@@ -45,7 +45,6 @@ class Index extends ActionIndex
             'created_on',
             true
         );
-
         // drag and drop sequencing
         $this->dataGrid->enableSequenceByDragAndDrop();
 

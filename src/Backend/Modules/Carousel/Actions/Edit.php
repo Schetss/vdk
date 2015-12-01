@@ -59,6 +59,7 @@ class Edit extends ActionEdit
 
         $this->frm->addText('titel', $this->record['titel'], null, 'inputText title', 'inputTextError title');
         $this->frm->addText('subtitel', $this->record['subtitel']);
+        $this->frm->addText('link', $this->record['link']);
         $this->frm->addImage('afbeelding');
         $this->frm->addCheckbox('toon_dit_bericht', $this->record['toon_dit_bericht'] == 'Y');
         $this->frm->addText(
@@ -116,6 +117,7 @@ class Edit extends ActionEdit
 
                 $item['titel'] = $fields['titel']->getValue();
                 $item['subtitel'] = $fields['subtitel']->getValue();
+                $item['link'] = $fields['link']->getValue();
 
                 // the image path
                 $imagePath = FRONTEND_FILES_PATH . '/' . $this->getModule() . '/afbeelding';

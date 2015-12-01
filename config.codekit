@@ -406,6 +406,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/2422474d14896f06fc789436f19b6761_Edit.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/2422474d14896f06fc789436f19b6761_Edit.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/2643f925f0e8ebea73814ebc208fa01b_Footer.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -469,6 +478,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/50740b0e097714ecfc0579731c6a0e39_Add.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/50740b0e097714ecfc0579731c6a0e39_Add.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/541c251c01527373734324f68fb8c1a5_Index.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/541c251c01527373734324f68fb8c1a5_Index.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/5a77152760911835bf7e8eeb87981567_Themes.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -528,6 +555,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/69539d734ecda146a43c22f6cdfa9f5f_Edit.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/6c7a0080b22e57d55f286b10be05fc9f_Seo.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/6c7a0080b22e57d55f286b10be05fc9f_Seo.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -12877,6 +12913,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/4956bf278a9840b6663a9073f753539a_CarouselAll.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/4956bf278a9840b6663a9073f753539a_CarouselAll.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/4fe36f1e77a34f61261e44eb9fe242f3_Default2.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13095,6 +13140,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/Navigation\/min\/editor_link_list_nl-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/min\/editor_link_list_nl-min.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/min\/min\/editor_link_list_nl-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/src\/Frontend\/Cache\/Navigation\/navigation_nl.php": {
 		"fileType": 8192,
@@ -13717,6 +13773,94 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/test-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 266920,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/test-2.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/test-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/test.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 266920,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/test.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/test.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/test2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 263264,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/test2.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/test2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/testafbeelding.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 264643,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/testafbeelding.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/testafbeelding.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/test-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168020,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/test-2.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/test-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/test.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168020,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/test.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/test.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/test2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74579,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/test2.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/test2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/testafbeelding.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182482,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/testafbeelding.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/testafbeelding.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Init.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13934,6 +14078,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Frontend\/Modules\/Carousel\/Widgets\/CarouselAll.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Carousel\/Widgets\/CarouselAll.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/src\/Frontend\/Modules\/ContentBlocks\/Config.php": {
 		"fileType": 8192,

@@ -42,6 +42,7 @@ class Add extends ActionAdd
 
         $this->frm->addText('titel', null, null, 'inputText title', 'inputTextError title');
         $this->frm->addText('subtitel');
+        $this->frm->addText('link');
         $this->frm->addImage('afbeelding');
         $this->frm->addCheckbox('toon_dit_bericht');
         $this->frm->addText('tags', null, null, 'inputText tagBox', 'inputTextError tagBox');
@@ -82,7 +83,7 @@ class Add extends ActionAdd
             $fields = $this->frm->getFields();
 
             $fields['titel']->isFilled(Language::err('FieldIsRequired'));
-            else $fields['afbeelding']->addError(Language::err('FieldIsRequired'));
+            // $fields['afbeelding']->addError(Language::err('FieldIsRequired'));
 
             // validate meta
             $this->meta->validate();
@@ -93,6 +94,7 @@ class Add extends ActionAdd
                 $item['language'] = Language::getWorkingLanguage();
                 $item['titel'] = $fields['titel']->getValue();
                 $item['subtitel'] = $fields['subtitel']->getValue();
+                $item['link'] = $fields['link']->getValue();
 
                 // the image path
                 $imagePath = FRONTEND_FILES_PATH . '/' . $this->getModule() . '/afbeelding';

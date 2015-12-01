@@ -39,6 +39,19 @@
                             </div>
                         </div>
 
+                        <div class="box">
+                            <div class="heading">
+                                <h3>
+                                    <label for="link">{$lblLink|ucfirst}</label>
+                                </h3>
+                            </div>
+                            <div class="options">
+                                {$txtLink}
+                            </div>
+                        </div>
+
+
+
 
                     </td>
 

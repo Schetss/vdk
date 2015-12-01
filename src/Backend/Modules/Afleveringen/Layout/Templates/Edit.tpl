@@ -2,14 +2,18 @@
 {include:{$BACKEND_CORE_PATH}/Layout/Templates/StructureStartModule.tpl}
 
 <div class="pageTitle">
-    <h2>{$lblCarousel|ucfirst}: {$lblEdit}</h2>
+    <h2>{$lblAfleveringen|ucfirst}: {$lblEdit}</h2>
 </div>
 
 {form:edit}
-    <label for="titel">Titel</label>
+    <label for="titel">{$lblTitel|ucfirst}</label>
     {$txtTitel} {$txtTitelError}
 
     <div id="pageUrl">
+        <div class="oneLiner">
+            {option:detailURL}<p><span><a href="{$detailURL}/{$item.url}">{$detailURL}/<span id="generatedUrl">{$item.url}</span></a></span></p>{/option:detailURL}
+            {option:!detailURL}<p class="infoMessage">{$errNoModuleLinked}</p>{/option:!detailURL}
+        </div>
     </div>
 
 
@@ -17,6 +21,7 @@
         <ul>
             <li><a href="#tabContent">{$lblContent|ucfirst}</a></li>
             <li><a href="#tabSEO">{$lblSEO|ucfirst}</a></li>
+            <li><a href="#tabImages">{$lblImages|ucfirst}</a></li>
         </ul>
 
         <div id="tabContent">
@@ -24,26 +29,15 @@
                 <tr>
                     <td id="leftColumn">
 
-                        <div class="box">
-                            <div class="heading">
-                                <h3>
-                                    <label for="subtitel">Subtitel</label>
-                                </h3>
-                            </div>
-                            <div class="options">
-                                {$txtSubtitel} {$txtSubtitelError}
-                            </div>
-                        </div>
-
                             <div class="box">
                                 <div class="heading">
                                     <h3>
-                                        <label for="afbeelding">Afbeelding<abbr title="{$lblRequiredField}">*</abbr></label>
+                                        <label for="afbeelding">{$lblAfbeelding|ucfirst}</label>
                                     </h3>
                                 </div>
                                 <div class="options">
                                     {option:item.afbeelding}
-                                        <p><img src="{$FRONTEND_FILES_URL}/carousel/afbeelding/940x400/{$item.afbeelding}"/></p>
+                                        <p><img src="{$FRONTEND_FILES_URL}/afleveringen/afbeelding/400x300/{$item.afbeelding}"/></p>
                                     {/option:item.afbeelding}
                                     <p>
                                         {$fileAfbeelding} {$fileAfbeeldingError}
@@ -59,22 +53,37 @@
                             <div class="box">
                                 <div class="heading">
                                     <h3>
-                                       Tonen in carousel
+                                        <label for="datumDate">{$lblDatum|ucfirst}</label>
                                     </h3>
                                 </div>
                                 <div class="options">
-                                    {$chkToonDitBericht} <label for="toonDitBericht">Afspelen</label> {$chkToonDitBerichtError}
+                                    <div class="oneLiner">
+                                        <p>{$txtDatumDate} {$txtDatumDateError}</p>
+                                        <p><label for="datumTime">{$lblAt|ucfirst}</label></p>
+                                        <p>{$txtDatumTime} {$txtDatumTimeError}</p>
+                                    </div>
                                 </div>
                             </div>
 
                             <div class="box">
                                 <div class="heading">
                                     <h3>
-                                        <label for="tags">{$lblTags|ucfirst} (optioneel)</label>
+                                        <label for="tags">{$lblTags|ucfirst}</label>
                                     </h3>
                                 </div>
                                 <div class="options">
                                     {$txtTags} {$txtTagsError}
+                                </div>
+                            </div>
+
+                            <div class="box">
+                                <div class="heading">
+                                    <h3>
+                                        <label for="categoryId">{$lblCategory|ucfirst}</label>
+                                    </h3>
+                                </div>
+                                <div class="options">
+                                    {$ddmCategoryId} {$ddmCategoryIdError}
                                 </div>
                             </div>
 
@@ -86,6 +95,14 @@
 
         <div id="tabSEO">
             {include:{$BACKEND_CORE_PATH}/Layout/Templates/Seo.tpl}
+        </div>
+
+        <div id="tabImages">
+            {$hidUploadedImages}
+
+            <div id="jsImageUploader" class="buttonHolder"></div>
+
+            <ul id="jsFileList" class="fileList clearfix"></ul>
         </div>
 
     </div>
@@ -101,7 +118,7 @@
 
     <div id="confirmDelete" title="{$lblDelete|ucfirst}?" style="display: none;">
         <p>
-            Bent u zeker dat u dit item wenst te verwijderen?
+            {$msgConfirmDelete|sprintf:{$item.title}}
         </p>
     </div>
 {/form:edit}

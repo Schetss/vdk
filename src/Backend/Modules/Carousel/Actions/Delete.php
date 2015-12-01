@@ -3,7 +3,7 @@
 namespace Backend\Modules\Carousel\Actions;
 
 use Backend\Core\Engine\Base\ActionDelete;
-use Backend\Core\Engine\Model;
+use Backend\Core\Engine\Model as BackendModel;
 use Backend\Modules\Carousel\Engine\Model as BackendCarouselModel;
 
 /**
@@ -22,9 +22,7 @@ class Delete extends ActionDelete
 
         // does the item exist
         if ($id === null || !BackendCarouselModel::exists($id)) {
-            return $this->redirect(
-                Model::createURLForAction('Index') . '&error=non-existing'
-            );
+             $this->redirect(BackendModel::createURLForAction('Index') . '&error=non-existing');
         }
 
         parent::execute();
@@ -33,8 +31,9 @@ class Delete extends ActionDelete
         BackendCarouselModel::delete($id);
 
         $this->redirect(
-            Model::createURLForAction('Index') . '&report=deleted&var=' .
-            urlencode($record['title'])
+            BackendModel::createURLForAction('Index') . '&report=deleted&var=' .
+            urlencode($this->record['title'])
         );
     }
 }
+

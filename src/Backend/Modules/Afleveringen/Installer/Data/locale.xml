@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<Backend>
+		<Afleveringen>
+			<item type="label" name="AddAfleveringen">
+				<translation language="nl"><![CDATA[Afleveringen toevoegen]]></translation>
+				<translation language="en"><![CDATA[add Afleveringen]]></translation>
+			</item>
+		</Afleveringen>
+		<Core>
+			<item type="label" name="Afleveringen">
+				<translation language="nl"><![CDATA[Afleveringen]]></translation>
+				<translation language="en"><![CDATA[Afleveringen]]></translation>
+			</item>
+			<item type="label" name="AfleveringenDetail">
+				<translation language="nl"><![CDATA[Afleveringen detail]]></translation>
+				<translation language="en"><![CDATA[Afleveringen detail]]></translation>
+			</item>
+			<item type="label" name="AfleveringenCategory">
+				<translation language="nl"><![CDATA[Afleveringen categorie]]></translation>
+				<translation language="en"><![CDATA[Afleveringen category]]></translation>
+			</item>
+			<item type="label" name="AfleveringenTitel">
+				<translation language="nl"><![CDATA[Aflevering titel]]></translation>
+				<translation language="en"><![CDATA[Aflevering titel]]></translation>
+			</item>
+			<item type="label" name="AfleveringenTitle">
+				<translation language="nl"><![CDATA[Aflevering titel]]></translation>
+				<translation language="en"><![CDATA[Aflevering titel]]></translation>
+			</item>
+			<item type="label" name="AfleveringSmallWidget">
+				<translation language="en"><![CDATA[Aflevering widget klein]]></translation>
+				<translation language="nl"><![CDATA[Aflevering widget klein]]></translation>
+			</item>
+			<item type="label" name="AfleveringLargeWidget">
+				<translation language="en"><![CDATA[Aflevering widget groot]]></translation>
+				<translation language="nl"><![CDATA[Aflevering widget groot]]></translation>
+			</item>
+			<item type="label" name="CarouselTitel">
+				<translation language="nl"><![CDATA[Carousel titel]]></translation>
+				<translation language="en"><![CDATA[Carousel titel]]></translation>
+			</item>
+			<item type="label" name="CarouselTitle">
+				<translation language="nl"><![CDATA[Carousel titel]]></translation>
+				<translation language="en"><![CDATA[Carousel titel]]></translation>
+			</item>
+			<item type="message" name="NoCategories">
+				<translation language="en"><![CDATA[no categories]]></translation>
+				<translation language="nl"><![CDATA[geen categorieën]]></translation>
+			</item>
+		</Core>
+	</Backend>
+	<Frontend>
+		<Core>
+		</Core>
+	</Frontend>
+</locale>

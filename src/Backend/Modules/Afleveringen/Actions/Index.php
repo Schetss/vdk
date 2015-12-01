@@ -1,16 +1,16 @@
 <?php
 
-namespace Backend\Modules\Carousel\Actions;
+namespace Backend\Modules\Afleveringen\Actions;
 
 use Backend\Core\Engine\Base\ActionIndex;
 use Backend\Core\Engine\Authentication;
 use Backend\Core\Engine\DataGridDB;
 use Backend\Core\Engine\Language;
 use Backend\Core\Engine\Model;
-use Backend\Modules\Carousel\Engine\Model as BackendCarouselModel;
+use Backend\Modules\Afleveringen\Engine\Model as BackendAfleveringenModel;
 
 /**
- * This is the index-action (default), it will display the overview of Carousel posts
+ * This is the index-action (default), it will display the overview of Afleveringen posts
  *
  * @author Stijn Schets <stijn@schetss.be>
  */
@@ -34,15 +34,8 @@ class Index extends ActionIndex
     protected function loadDataGrid()
     {
         $this->dataGrid = new DataGridDB(
-            BackendCarouselModel::QRY_DATAGRID_BROWSE,
+            BackendAfleveringenModel::QRY_DATAGRID_BROWSE,
             Language::getWorkingLanguage()
-        );
-
-         // set headers
-        $this->dataGrid->setHeaderLabels(
-            array(
-                'titel' => "Titel"
-            )
         );
 
         // reform date
@@ -52,6 +45,15 @@ class Index extends ActionIndex
             'created_on',
             true
         );
+
+        // setheaders
+
+          $this->dataGrid->setHeaderLabels(
+            array(
+                'titel' => "Titel"
+            )
+        );
+
         // drag and drop sequencing
         $this->dataGrid->enableSequenceByDragAndDrop();
 

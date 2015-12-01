@@ -1,20 +1,20 @@
 <?php
 
-namespace Backend\Modules\Carousel\Actions;
+namespace Backend\Modules\Afleveringen\Actions;
 
 use Backend\Core\Engine\Base\ActionIndex;
 use Backend\Core\Engine\Authentication;
 use Backend\Core\Engine\DataGridDB;
 use Backend\Core\Engine\Language;
 use Backend\Core\Engine\Model;
-use Backend\Modules\Carousel\Engine\Model as BackendCarouselModel;
+use Backend\Modules\Afleveringen\Engine\Model as BackendAfleveringenModel;
 
 /**
- * This is the index-action (default), it will display the overview of Carousel posts
+ * This is the categories-action, it will display the overview of categories
  *
  * @author Stijn Schets <stijn@schetss.be>
  */
-class Index extends ActionIndex
+class Categories extends ActionIndex
 {
     /**
      * Execute the action
@@ -31,52 +31,42 @@ class Index extends ActionIndex
     /**
      * Load the dataGrid
      */
-    protected function loadDataGrid()
+    private function loadDataGrid()
     {
         $this->dataGrid = new DataGridDB(
-            BackendCarouselModel::QRY_DATAGRID_BROWSE,
+            BackendAfleveringenModel::QRY_DATAGRID_BROWSE_CATEGORIES,
             Language::getWorkingLanguage()
         );
 
-         // set headers
+        // setheaders
+
         $this->dataGrid->setHeaderLabels(
             array(
-                'titel' => "Titel"
+                'num_items' => "Aantal afleveringen in deze categorie"
             )
         );
 
-        // reform date
-        $this->dataGrid->setColumnFunction(
-            array('Backend\Core\Engine\DataGridFunctions', 'getLongDate'),
-            array('[created_on]'),
-            'created_on',
-            true
-        );
-        // drag and drop sequencing
-        $this->dataGrid->enableSequenceByDragAndDrop();
-
         // check if this action is allowed
-        if (Authentication::isAllowedAction('Edit')) {
+        if (Authentication::isAllowedAction('edit_category')) {
             $this->dataGrid->addColumn(
                 'edit',
                 null,
                 Language::lbl('Edit'),
-                Model::createURLForAction('Edit') . '&amp;id=[id]',
+                Model::createURLForAction('edit_category') . '&amp;id=[id]',
                 Language::lbl('Edit')
             );
-            $this->dataGrid->setColumnURL(
-                'titel',
-                Model::createURLForAction('Edit') . '&amp;id=[id]'
-            );
         }
+
+        // sequence
+        $this->dataGrid->enableSequenceByDragAndDrop();
+        $this->dataGrid->setAttributes(array('data-action' => 'sequence_categories'));
     }
 
     /**
-     * Parse the page
+     * Parse & display the page
      */
     protected function parse()
     {
-        // parse the dataGrid if there are results
         $this->tpl->assign('dataGrid', (string) $this->dataGrid->getContent());
     }
 }

@@ -57,7 +57,6 @@
                         </div>
 
 
-
                     </td>
 
                     <td id="sidebar">

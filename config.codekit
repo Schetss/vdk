@@ -388,6 +388,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/16311ec107c37a9905d514e01d67c627_Index.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/16311ec107c37a9905d514e01d67c627_Index.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/2332a7d9c1be7258034a185f942a3f8a_AddStep4.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/2332a7d9c1be7258034a185f942a3f8a_AddStep4.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/2643f925f0e8ebea73814ebc208fa01b_Footer.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -397,11 +415,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/2919cd98ae9609290829f3178a1776da_Generate.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/2919cd98ae9609290829f3178a1776da_Generate.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/311699b7c0923597fb41a0a1cbc4fca9_Add.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/311699b7c0923597fb41a0a1cbc4fca9_Add.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/34a6089c5c7cb4a76d31c5573e18bd4e_Add.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/34a6089c5c7cb4a76d31c5573e18bd4e_Add.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -595,6 +631,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/9fee143fbf0090acf68ac47f4c8e71ff_AddStep2.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/9fee143fbf0090acf68ac47f4c8e71ff_AddStep2.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/af4157afb2164f8bacebd6b060504b58_EditThemeTemplate.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -627,6 +672,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/cea27a55bfa3c1e389dbbbd463741909_ThemeTemplates.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/d3f369552eec954f08934a0938ff77ec_AddField.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/d3f369552eec954f08934a0938ff77ec_AddField.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -672,6 +726,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/ef1cec85ce202658b5024b9f7486dde0_Index.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/f0ea763d97f55570c6f3a08a8da0d9b2_AddStep3.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/f0ea763d97f55570c6f3a08a8da0d9b2_AddStep3.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/f52b30a90d39df62bb0a1388b8c15b42_UploadModule.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/f52b30a90d39df62bb0a1388b8c15b42_UploadModule.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -8697,6 +8769,98 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Modules\/Carousel\/Actions\/Add.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/Carousel\/Actions\/Add.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/Carousel\/Actions\/Delete.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/Carousel\/Actions\/Delete.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/Carousel\/Actions\/Edit.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/Carousel\/Actions\/Edit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/Carousel\/Actions\/Index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/Carousel\/Actions\/Index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/Carousel\/Ajax\/Sequence.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/Carousel\/Ajax\/Sequence.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/Carousel\/Config.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/Carousel\/Config.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/Carousel\/DependencyInjection\/CarouselExtension.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/Carousel\/DependencyInjection\/CarouselExtension.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/Carousel\/Engine\/Model.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/Carousel\/Engine\/Model.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/Carousel\/Installer\/Installer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/Carousel\/Installer\/Installer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/Carousel\/Js\/Carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/Carousel\/Js\/Carousel.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/Carousel\/Js\/min\/Carousel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/src\/Backend\/Modules\/ContentBlocks\/Actions\/Add.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -10296,6 +10460,1253 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Actions\/Add.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Actions\/Add.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Actions\/AddField.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Actions\/AddField.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Actions\/AddStep2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Actions\/AddStep2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Actions\/AddStep3.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Actions\/AddStep3.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Actions\/AddStep4.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Actions\/AddStep4.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Actions\/CreateZip.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Actions\/CreateZip.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Actions\/DeleteField.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Actions\/DeleteField.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Actions\/Generate.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Actions\/Generate.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Ajax\/RenderField.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Ajax\/RenderField.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Config.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Config.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Engine\/Generator.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Engine\/Generator.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Engine\/Helper.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Engine\/Helper.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Engine\/Model.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Engine\/Model.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Installer\/Installer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Installer\/Installer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Js\/ModuleMaker.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Js\/ModuleMaker.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Js\/min\/ModuleMaker-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Add.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Add.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/AddCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/AddCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Categories.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Categories.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Delete.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Delete.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/DeleteCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/DeleteCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Edit.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Edit.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/EditCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/EditCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Index.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Index.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddAuthor.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddAuthor.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddCheckbox.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddCheckbox.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddDatetime.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddDatetime.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddDropdown.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddDropdown.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddEditor.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddEditor.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddFile.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddFile.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddImage.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddImage.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddImageCaption.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddImageCaption.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddMulticheckbox.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddMulticheckbox.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddPassword.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddPassword.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddRadiobutton.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddRadiobutton.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddSimple.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/AddSimple.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildCheckbox.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildCheckbox.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildDatetime.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildDatetime.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildFile.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildFile.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildImage.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildImage.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildImageCaption.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildImageCaption.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildMeta.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildMeta.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildSequence.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildSequence.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildSimple.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/BuildSimple.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/CreateFolder.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/CreateFolder.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadCategoriesAdd.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadCategoriesAdd.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadCategoriesEdit.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadCategoriesEdit.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadMetaAdd.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadMetaAdd.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadMetaEdit.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadMetaEdit.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadTagsAdd.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadTagsAdd.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadTagsEdit.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/LoadTagsEdit.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesGet.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesGet.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesJs.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesJs.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesLoad.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesLoad.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesLoadEdit.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesLoadEdit.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesSave.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesSave.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesSaveEdit.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/MultipleImagesSaveEdit.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ParseMeta.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ParseMeta.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/SaveTags.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/SaveTags.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/SearchIndex.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/SearchIndex.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/Sequence.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/Sequence.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateDatetime.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateDatetime.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateFile.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateFile.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateImage.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateImage.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateMeta.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateMeta.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateNumber.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateNumber.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateRequired.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Actions\/Snippets\/ValidateRequired.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Ajax\/Sequence.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Ajax\/Sequence.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Ajax\/SequenceCategories.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Ajax\/SequenceCategories.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Ajax\/Upload.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Ajax\/Upload.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Config.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Config.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/DependencyInjection\/ModuleExtension.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/DependencyInjection\/ModuleExtension.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Helper.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Helper.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Model.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Model.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/DatagridCategories.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/DatagridCategories.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/DeleteCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/DeleteCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/DeleteImage.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/DeleteImage.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/ExistsCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/ExistsCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/GetCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/GetCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/GetImages.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/GetImages.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/GetMaxSequence.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/GetMaxSequence.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/GetUrl.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/GetUrl.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/GetUrlCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/GetUrlCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/InsertCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/InsertCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/InsertImage.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/InsertImage.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/MultipleImageSizes.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/MultipleImageSizes.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/UpdateCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/UpdateCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/UpdateImage.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Engine\/Snippets\/UpdateImage.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Data\/qqFileUploader.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Data\/qqFileUploader.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Installer.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Installer.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Snippets\/Categories.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Snippets\/Categories.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Snippets\/MultipleImages.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Snippets\/MultipleImages.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Snippets\/Navigation.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Snippets\/Navigation.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Snippets\/NavigationCategories.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Snippets\/NavigationCategories.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Snippets\/Search.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Installer\/Snippets\/Search.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/button.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/button.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/min\/button-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/dnd.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/dnd.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/min\/dnd-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/handler.base.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/handler.base.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/min\/handler.base-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/handler.form.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/handler.form.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/min\/handler.form-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/handler.xhr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/handler.xhr.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/min\/handler.xhr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/header.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/header.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/min\/header-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/jquery-plugin.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/jquery-plugin.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/min\/jquery-plugin-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/uploader.basic.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/uploader.basic.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/min\/uploader.basic-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/uploader.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/uploader.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/min\/uploader-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/util.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/util.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/fineuploader\/min\/util-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/Javascript.base.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/Javascript.base.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/min\/Javascript.base-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/Snippets\/DoMeta.base.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/Snippets\/DoMeta.base.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/Snippets\/min\/DoMeta.base-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/Snippets\/Multifiles.base.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/Snippets\/Multifiles.base.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Js\/Snippets\/min\/Multifiles.base-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Layout\/Css\/fineuploader.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Backend\/Layout\/Css\/fineuploader.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/external\/qqFileUploader.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/external\/qqFileUploader.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Actions\/Category.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Actions\/Category.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Actions\/Detail.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Actions\/Detail.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Actions\/Index.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Actions\/Index.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Actions\/Snippets\/Twittercard.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Actions\/Snippets\/Twittercard.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Config.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Config.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Model.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Model.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Snippets\/getAllByCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Snippets\/getAllByCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Snippets\/getAllCategories.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Snippets\/getAllCategories.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Snippets\/getCategory.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Snippets\/getCategory.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Snippets\/getCategoryCount.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Snippets\/getCategoryCount.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Snippets\/Search.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Engine\/Snippets\/Search.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/button.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/button.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/min\/button-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/dnd.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/dnd.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/min\/dnd-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/handler.base.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/handler.base.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/min\/handler.base-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/handler.form.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/handler.form.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/min\/handler.form-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/handler.xhr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/handler.xhr.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/min\/handler.xhr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/header.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/header.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/min\/header-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/jquery-plugin.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/jquery-plugin.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/min\/jquery-plugin-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/uploader.basic.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/uploader.basic.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/min\/uploader.basic-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/uploader.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/uploader.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/min\/uploader-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/util.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/util.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/fineuploader\/min\/util-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/Javascript.base.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/Javascript.base.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Js\/min\/Javascript.base-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Widgets\/Categories.base.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/ModuleMaker\/Layout\/Templates\/Frontend\/Widgets\/Categories.base.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Modules\/Pages\/Actions\/Add.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -11665,28 +13076,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/src\/Frontend\/Cache\/Navigation\/editor_link_list_en.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/editor_link_list_en.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/min\/editor_link_list_en-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/src\/Frontend\/Cache\/Navigation\/editor_link_list_fr.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/editor_link_list_fr.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/min\/editor_link_list_fr-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/src\/Frontend\/Cache\/Navigation\/editor_link_list_nl.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -11698,58 +13087,11 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/src\/Frontend\/Cache\/Navigation\/keys_en.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/keys_en.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/src\/Frontend\/Cache\/Navigation\/keys_fr.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/keys_fr.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/src\/Frontend\/Cache\/Navigation\/keys_nl.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/keys_nl.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/src\/Frontend\/Cache\/Navigation\/min\/editor_link_list_nl-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/min\/editor_link_list_nl-min.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/min\/min\/editor_link_list_nl-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/src\/Frontend\/Cache\/Navigation\/navigation_en.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/navigation_en.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/src\/Frontend\/Cache\/Navigation\/navigation_fr.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/Navigation\/navigation_fr.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -12545,6 +13887,53 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Modules\/Carousel\/Actions\/Detail.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Carousel\/Actions\/Detail.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Modules\/Carousel\/Actions\/Index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Carousel\/Actions\/Index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Modules\/Carousel\/Config.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Carousel\/Config.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Modules\/Carousel\/Engine\/Model.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Carousel\/Engine\/Model.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Modules\/Carousel\/Js\/carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Carousel\/Js\/carousel.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Carousel\/Js\/min\/carousel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/src\/Frontend\/Modules\/ContentBlocks\/Config.php": {
 		"fileType": 8192,

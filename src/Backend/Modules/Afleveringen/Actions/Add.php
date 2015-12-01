@@ -17,6 +17,7 @@ use Backend\Modules\Users\Engine\Model as BackendUsersModel;
  *
  * @author Stijn Schets <stijn@schetss.be>
  */
+
 class Add extends ActionAdd
 {
     /**

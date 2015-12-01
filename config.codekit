@@ -406,6 +406,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/21fa874923cdafbf19e3a314856ebeb2_Edit.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/21fa874923cdafbf19e3a314856ebeb2_Edit.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/2332a7d9c1be7258034a185f942a3f8a_AddStep4.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -798,6 +807,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/cea27a55bfa3c1e389dbbbd463741909_ThemeTemplates.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/ced61734d722906b7fa8af27ee55ac73_Edit.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/ced61734d722906b7fa8af27ee55ac73_Edit.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -13295,6 +13313,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/3e7ba9bd32a63c89950a20583a0bf81a_RecentArticlesFull.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/3e7ba9bd32a63c89950a20583a0bf81a_RecentArticlesFull.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/4956bf278a9840b6663a9073f753539a_CarouselAll.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14160,6 +14187,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/test.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98890,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/test.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/test.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/vrd.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14171,6 +14209,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/test.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 288794,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/test.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/test.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/vrd.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14178,6 +14227,17 @@
 		"initialSize": 316490,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/vrd.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/vrd.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/test.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63779,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/test.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/test.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14226,6 +14286,94 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/blog\/images\/128x128\/test-nl-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20007,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/test-nl-1.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/test-nl-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/128x128\/test2-nl-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20007,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/test2-nl-3.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/test2-nl-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/128x128\/test3-nl-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18679,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/test3-nl-5.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/test3-nl-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/source\/test-nl-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168020,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/test-nl-1.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/test-nl-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/source\/test2-nl-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168020,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/test2-nl-3.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/test2-nl-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/source\/test3-nl-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68603,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/test3-nl-5.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/test3-nl-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/lala.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 265984,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/lala.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/lala.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/lorem-ipsum.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 263264,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/lorem-ipsum.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/lorem-ipsum.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/test-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14270,6 +14418,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/tratata.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 266920,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/tratata.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/940x400\/tratata.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/lala.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134226,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/lala.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/lala.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/lorem-ipsum.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74579,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/lorem-ipsum.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/lorem-ipsum.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/test-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14310,6 +14491,17 @@
 		"initialSize": 182482,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/testafbeelding.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/testafbeelding.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/tratata.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168020,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/tratata.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/tratata.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

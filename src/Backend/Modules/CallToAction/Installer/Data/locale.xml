@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<Backend>
+		<CallToAction>
+			<item type="label" name="AddCallToAction">
+				<translation language="nl"><![CDATA[Call To Action toevoegen]]></translation>
+				<translation language="en"><![CDATA[add Call To Action]]></translation>
+			</item>
+		</CallToAction>
+		<Core>
+			<item type="label" name="CallToAction">
+				<translation language="nl"><![CDATA[Call To Action]]></translation>
+				<translation language="en"><![CDATA[Call To Action]]></translation>
+			</item>
+			<item type="label" name="CallToActionDetail">
+				<translation language="nl"><![CDATA[Call To Action detail]]></translation>
+				<translation language="en"><![CDATA[Call To Action detail]]></translation>
+			</item>
+			<item type="label" name="CallToActionCategory">
+				<translation language="nl"><![CDATA[Call To Action categorie]]></translation>
+				<translation language="en"><![CDATA[Call To Action category]]></translation>
+			</item>
+			<item type="label" name="CallToActionFacebookWidget">
+				<translation language="nl"><![CDATA[Call To Action Facebook]]></translation>
+				<translation language="en"><![CDATA[Call To Action Facebook]]></translation>
+			</item>
+			<item type="label" name="CallToActionSideBlockkWidget">
+				<translation language="nl"><![CDATA[Call To Action rechter kolom]]></translation>
+				<translation language="en"><![CDATA[Call To Action rechter kolom]]></translation>
+			</item>
+			<item type="label" name="CallToActionMainWidget">
+				<translation language="nl"><![CDATA[Call To Action linker kolom]]></translation>
+				<translation language="en"><![CDATA[Call To Action linker kolom]]></translation>
+			</item>
+			<item type="label" name="CallToActionFooterWidget">
+				<translation language="nl"><![CDATA[Call To Action footer]]></translation>
+				<translation language="en"><![CDATA[Call To Action footer]]></translation>
+			</item>
+			<item type="message" name="NoCategories">
+				<translation language="en"><![CDATA[no categories]]></translation>
+				<translation language="nl"><![CDATA[geen categorieën]]></translation>
+			</item>
+		</Core>
+	</Backend>
+	<Frontend>
+		<Core>
+		</Core>
+	</Frontend>
+</locale>

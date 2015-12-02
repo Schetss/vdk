@@ -11,38 +11,73 @@
 		{$txtTitle} {$txtTitleError}
 	</p>
 
-	<div class="box horizontal">
-		<div class="heading">
-			<h3>{$lblAddress|ucfirst}</h3>
-		</div>
-		<div class="options">
-			<p>
-				<label for="street">{$lblStreet|ucfirst}<abbr title="{$lblRequiredField}">*</abbr></label>
-				{$txtStreet} {$txtStreetError}
-			</p>
-			<p>
-				<label for="number">{$lblNumber|ucfirst}<abbr title="{$lblRequiredField}">*</abbr></label>
-				{$txtNumber} {$txtNumberError}
-			</p>
-			<p>
-				<label for="zip">{$lblZip|ucfirst}<abbr title="{$lblRequiredField}">*</abbr></label>
-				{$txtZip} {$txtZipError}
-			</p>
-			<p>
-				<label for="city">{$lblCity|ucfirst}<abbr title="{$lblRequiredField}">*</abbr></label>
-				{$txtCity} {$txtCityError}
-			</p>
-			<p>
-				<label for="country">{$lblCountry|ucfirst}<abbr title="{$lblRequiredField}">*</abbr></label>
-				{$ddmCountry} {$ddmCountryError}
-			</p>
-			{$hidMapId} {$hidRedirect}
+	<table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tr>
+        	<td id="leftColumn">
+				<div class="box horizontal">
+					<div class="heading">
+						<h3>{$lblAddress|ucfirst}</h3>
+					</div>
+					<div class="options">
+						<p>
+							<label for="street">{$lblStreet|ucfirst}<abbr title="{$lblRequiredField}">*</abbr></label>
+							{$txtStreet} {$txtStreetError}
+						</p>
+						<p>
+							<label for="number">{$lblNumber|ucfirst}<abbr title="{$lblRequiredField}">*</abbr></label>
+							{$txtNumber} {$txtNumberError}
+						</p>
+						<p>
+							<label for="zip">{$lblZip|ucfirst}<abbr title="{$lblRequiredField}">*</abbr></label>
+							{$txtZip} {$txtZipError}
+						</p>
+						<p>
+							<label for="city">{$lblCity|ucfirst}<abbr title="{$lblRequiredField}">*</abbr></label>
+							{$txtCity} {$txtCityError}
+						</p>
+						<p>
+							<label for="country">{$lblCountry|ucfirst}<abbr title="{$lblRequiredField}">*</abbr></label>
+							{$ddmCountry} {$ddmCountryError}
+						</p>
+						{$hidMapId} {$hidRedirect}
+ 						
+ 						<div class="buttonHolderRight">
+							<input id="editButton" class="inputButton button mainButton" type="submit" name="edit" value="{$lblUpdateMap|ucfirst}" />
+						</div>
+						
+					</div>
 
-		<div class="buttonHolderRight">
-			<input id="editButton" class="inputButton button mainButton" type="submit" name="edit" value="{$lblUpdateMap|ucfirst}" />
-		</div>
-		</div>
-	</div>
+				</div>
+
+
+				</td>
+            <td id="sidebar">
+            	<div class="box horizontal">
+					<div class="heading">
+						<h3>Contact</h3>
+					</div>
+					<div class="options">
+						<p>
+							<label for="street">Telefoon</label>
+							{$txtTelephone} 
+						</p>
+						<p>
+							<label for="street">Fax</label>
+							{$txtFax} 
+						</p>
+						<p>
+							<label for="street">Email</label>
+							{$txtEmail} 
+						</p>
+					</div>
+				</div>
+            </td>
+
+           
+
+        </table>
+
+
 {/form:edit}
 
 <table width="100%">

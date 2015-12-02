@@ -160,8 +160,7 @@ class Model
      * @return mixed
      */
     public static function getMapSetting($mapId, $name)
-    {
-        $serializedData = (string) BackendModel::getContainer()->get('database')->getVar(
+    {    $serializedData = (string) BackendModel::getContainer()->get('database')->getVar(
             'SELECT s.value
              FROM location_settings AS s
              WHERE s.map_id = ? AND s.name = ?',

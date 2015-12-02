@@ -94,6 +94,32 @@ class Model
         );
     }
 
+
+    /**
+     * Get AllAfleveringSmall
+     *
+     * @return array
+     */
+    public static function getContactForm()
+    {
+        $return = (array) FrontendModel::get('database')->getRecords(
+            'SELECT id, title as title, telephone AS tel, fax as fax, email as email, street as street, number as nr, city as city, country as country, zip as zip 
+            FROM location LIMIT 1',
+            array(),
+            'id'
+        );
+
+        // loop items and unserialize
+        foreach ($return as &$row) {
+            if (isset($row['meta_data'])) {
+                $row['meta_data'] = unserialize($row['meta_data']);
+            }
+        }
+
+        return $return;
+    }
+
+
     /**
      * Retrieve a map setting
      *

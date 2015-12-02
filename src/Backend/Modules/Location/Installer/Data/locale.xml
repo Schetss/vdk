@@ -76,6 +76,19 @@
         <translation language="uk"><![CDATA[Тип]]></translation>
         <translation language="el"><![CDATA[Τύπος χάρτη]]></translation>
       </item>
+      <item type="label" name="ContactForm">
+        <translation language="nl"><![CDATA[contact]]></translation>
+        <translation language="en"><![CDATA[contact]]></translation>
+        <translation language="it"><![CDATA[contact]]></translation>
+        <translation language="ru"><![CDATA[contact]]></translation>
+        <translation language="zh"><![CDATA[contact]]></translation>
+        <translation language="de"><![CDATA[contact]]></translation>
+        <translation language="fr"><![CDATA[contact]]></translation>
+        <translation language="hu"><![CDATA[contact]]></translation>
+        <translation language="es"><![CDATA[contact]]></translation>
+        <translation language="uk"><![CDATA[contact]]></translation>
+        <translation language="el"><![CDATA[contact]]></translation>
+      </item>
       <item type="label" name="Roadmap">
         <translation language="nl"><![CDATA[wegenkaart]]></translation>
         <translation language="en"><![CDATA[road map]]></translation>

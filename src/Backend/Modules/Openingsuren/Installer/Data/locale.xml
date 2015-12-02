@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<Backend>
+		<Openingsuren>
+			
+			<item type="label" name="AddOpeningsuren">
+				<translation language="nl"><![CDATA[Openingsuren toevoegen]]></translation>
+				<translation language="en"><![CDATA[add Openingsuren]]></translation>
+			</item>
+		</Openingsuren>
+		<Core>
+			<item type="label" name="Openingsuren">
+				<translation language="nl"><![CDATA[Openingsuren]]></translation>
+				<translation language="en"><![CDATA[Openingsuren]]></translation>
+			</item>
+			<item type="label" name="OpeningsurenDetail">
+				<translation language="nl"><![CDATA[Openingsuren detail]]></translation>
+				<translation language="en"><![CDATA[Openingsuren detail]]></translation>
+			</item>
+			<item type="label" name="OpeningsurenCategory">
+				<translation language="nl"><![CDATA[Openingsuren categorie]]></translation>
+				<translation language="en"><![CDATA[Openingsuren category]]></translation>
+			</item>
+			<item type="message" name="NoCategories">
+				<translation language="en"><![CDATA[no categories]]></translation>
+				<translation language="nl"><![CDATA[geen categorieën]]></translation>
+			</item>
+		</Core>
+	</Backend>
+	<Frontend>
+		<Core>
+		</Core>
+	</Frontend>
+</locale>
+ 

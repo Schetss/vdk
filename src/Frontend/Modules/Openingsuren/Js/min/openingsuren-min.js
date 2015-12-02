@@ -1,0 +1,1 @@
+jsFrontend.openingsuren={init:function(){}},$(jsFrontend.openingsuren.init);

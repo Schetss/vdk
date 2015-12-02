@@ -138,6 +138,7 @@ class Model
             'SELECT id, titel AS title, afbeelding as img, link as link, linktekst as linktext, text as content
              FROM call_to_action
              WHERE category_id = 4
+             AND publiceren = TRUE
              ORDER BY sequence ASC',
             array(),
             'id'
@@ -165,6 +166,7 @@ class Model
             'SELECT id, titel AS title, afbeelding as img, link as link, linktekst as linktext, text as content
              FROM call_to_action
              WHERE category_id = 3
+             AND publiceren = TRUE
              ORDER BY sequence ASC',
             array(),
             'id'
@@ -191,7 +193,8 @@ class Model
             'SELECT id, titel AS title, afbeelding as img, link as link, linktekst as linktext, text as content
              FROM call_to_action
              WHERE category_id = 1
-             ORDER BY sequence ASC',
+             AND publiceren = TRUE
+             ORDER BY sequence ASC LIMIT 1',
             array(),
             'id'
         );
@@ -219,6 +222,7 @@ class Model
             'SELECT id, titel AS title, afbeelding as img, link as link, linktekst as linktext, text as content
              FROM call_to_action 
              WHERE category_id = 2
+             AND publiceren = TRUE
              ORDER BY sequence ASC LIMIT 3',
             array(),
             'id'

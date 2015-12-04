@@ -16,7 +16,7 @@ jsBackend.openingsuren =
     init: function()
     {
         // do meta
-        if ($('#naam').length > 0) $('#naam').doMeta();
+        if ($('#dag').length > 0) $('#dag').doMeta();
 
     }
 }

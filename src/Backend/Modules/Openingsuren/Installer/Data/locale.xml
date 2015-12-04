@@ -2,7 +2,6 @@
 <locale>
 	<Backend>
 		<Openingsuren>
-			
 			<item type="label" name="AddOpeningsuren">
 				<translation language="nl"><![CDATA[Openingsuren toevoegen]]></translation>
 				<translation language="en"><![CDATA[add Openingsuren]]></translation>
@@ -32,4 +31,3 @@
 		</Core>
 	</Frontend>
 </locale>
- 

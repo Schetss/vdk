@@ -15,7 +15,7 @@ jsFrontend.openingsuren =
     // constructor
     init: function()
     {
-    	
+
     }
 }
 

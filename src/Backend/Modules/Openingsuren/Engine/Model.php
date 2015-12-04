@@ -13,7 +13,7 @@ use Backend\Core\Engine\Language;
 class Model
 {
     const QRY_DATAGRID_BROWSE =
-        'SELECT i.id, i.naam, UNIX_TIMESTAMP(i.created_on) AS created_on, i.sequence
+        'SELECT i.id, i.dag, UNIX_TIMESTAMP(i.created_on) AS created_on, i.sequence
          FROM openingsuren AS i
          WHERE i.language = ?
          ORDER BY i.sequence';

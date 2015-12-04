@@ -80,7 +80,7 @@ class Detail extends Block
         $this->tpl->assign('hideContentTitle', true);
 
         // show title linked with the meta title
-        $this->tpl->assign('title', $this->record['naam']);
+        $this->tpl->assign('title', $this->record['dag']);
 
         // set meta
         $this->header->setPageTitle($this->record['meta_title'], ($this->record['meta_description_overwrite'] == 'Y'));

@@ -379,6 +379,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/0edb84c3d1ccaf963895aca45c7ad0fc_AddCategory.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/0edb84c3d1ccaf963895aca45c7ad0fc_AddCategory.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/1070773cb27e6e16033777cf0f93ef04_Analyse.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -411,6 +420,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/16311ec107c37a9905d514e01d67c627_Index.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/17567e840ff4e168aaa7c25cfa3c928f_Add.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/17567e840ff4e168aaa7c25cfa3c928f_Add.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/19e77a7846111abf30c21cb044812424_Settings.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/19e77a7846111abf30c21cb044812424_Settings.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -505,11 +532,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/3689149f1b72b1f29008f08912804a66_Index.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/3689149f1b72b1f29008f08912804a66_Index.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/36ae58ad81d1696054ca85579280f338_Categories.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/36ae58ad81d1696054ca85579280f338_Categories.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/3916951c24b3dd8586a3c2b275a42121_Email.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/3916951c24b3dd8586a3c2b275a42121_Email.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/39a21250d37d51eded76c3940a9ab716_Add.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/39a21250d37d51eded76c3940a9ab716_Add.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -546,6 +600,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/490e68ef2c6a321774dfeef8f6a14aa8_CreateZip.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/4b33d93976c2eeba7743783cf8cd352d_AddCategory.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/4b33d93976c2eeba7743783cf8cd352d_AddCategory.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -748,6 +811,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/891d60621ca8ff8b53c077bf1152441e_Categories.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/891d60621ca8ff8b53c077bf1152441e_Categories.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/8a5435509970cae4940a0729af8ce306_Edit.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -901,6 +973,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/d6f2c863d47cbc2ead293498853ef19d_Edit.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/d6f2c863d47cbc2ead293498853ef19d_Edit.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/de9cbfecea071b0fc3089e6520a3fd84_Statistics.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -987,6 +1068,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/f9a5aca67a723e864a5a8860d26269b9_StructureEnd.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/fc491c80dcf0e119f27193d8aa33c447_Index.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/fc491c80dcf0e119f27193d8aa33c447_Index.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -12498,6 +12588,143 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/src\/Backend\/Modules\/OverOns\/Actions\/Add.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Actions\/Add.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Actions\/AddCategory.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Actions\/AddCategory.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Actions\/Categories.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Actions\/Categories.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Actions\/Delete.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Actions\/Delete.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Actions\/DeleteCategory.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Actions\/DeleteCategory.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Actions\/Edit.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Actions\/Edit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Actions\/EditCategory.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Actions\/EditCategory.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Actions\/Index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Actions\/Index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Ajax\/Sequence.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Ajax\/Sequence.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Ajax\/SequenceCategories.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Ajax\/SequenceCategories.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Config.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Config.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/DependencyInjection\/OverOnsExtension.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/DependencyInjection\/OverOnsExtension.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Engine\/Model.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Engine\/Model.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Installer\/Installer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Installer\/Installer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Modules\/OverOns\/Js\/OverOns.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Js\/OverOns.js",
+		"outputAbbreviatedPath": "\/src\/Backend\/Modules\/OverOns\/Js\/min\/OverOns-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/src\/Backend\/Modules\/Pages\/Actions\/Add.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13713,6 +13940,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/55339219e1603a72ee835038c29ae66e_RecentArticlesList.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/55339219e1603a72ee835038c29ae66e_RecentArticlesList.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/5a747eb6c29b4df068f68fcc71aa69cc_Openingsuren.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/5a747eb6c29b4df068f68fcc71aa69cc_Openingsuren.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/60dd444d1eacc8dad7996ef2d80d1d62_Sitemap.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13745,6 +13990,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/8885c4dc29112cb51cd13331195bb158_Default.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/8c022c1afdc2b3f983c0c8242e5ead7f_Index.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/8c022c1afdc2b3f983c0c8242e5ead7f_Index.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -13844,6 +14098,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/e850152bd6ad6335f764c045c76ebd91_Home.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/ec9ad1a42c00271f4b1338528ed60427_Pagination.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/ec9ad1a42c00271f4b1338528ed60427_Pagination.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -14657,6 +14920,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/blog\/images\/128x128\/artikel-der-artikels-nl-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18909,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/artikel-der-artikels-nl-8.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/artikel-der-artikels-nl-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/128x128\/nog-een-artikel-nl-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18909,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/nog-een-artikel-nl-7.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/nog-een-artikel-nl-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/128x128\/test-artikel-1-nl-6.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21088,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/test-artikel-1-nl-6.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/test-artikel-1-nl-6.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/blog\/images\/128x128\/test-nl-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14686,6 +14982,39 @@
 		"initialSize": 18679,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/test3-nl-5.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/test3-nl-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/source\/artikel-der-artikels-nl-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182482,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/artikel-der-artikels-nl-8.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/artikel-der-artikels-nl-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/source\/nog-een-artikel-nl-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182482,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/nog-een-artikel-nl-7.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/nog-een-artikel-nl-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/source\/test-artikel-1-nl-6.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66182,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/test-artikel-1-nl-6.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/test-artikel-1-nl-6.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15038,6 +15367,160 @@
 		"initialSize": 168020,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/tratata.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Carousel\/afbeelding\/source\/tratata.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/10-jaar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177460,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/10-jaar.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/10-jaar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/50-jaar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262468,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/50-jaar.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/50-jaar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/lala.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 211281,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/lala.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/lala.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/oprichting.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 239320,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/oprichting.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/oprichting.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/testen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 239320,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/testen.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/600x600\/testen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/10-jaar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20809,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/10-jaar.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/10-jaar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/50-jaar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182482,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/50-jaar.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/50-jaar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/lala.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66182,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/lala.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/lala.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/oprichting.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134226,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/oprichting.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/oprichting.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/testen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134226,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/testen.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/OverOns\/afbeelding\/source\/testen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/userfiles\/_thumbs\/Images\/carousel-homepage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5904,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/userfiles\/_thumbs\/Images\/carousel-homepage.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/userfiles\/_thumbs\/Images\/carousel-homepage.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/userfiles\/_thumbs\/Images\/media-lightbox.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9065,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/userfiles\/_thumbs\/Images\/media-lightbox.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/userfiles\/_thumbs\/Images\/media-lightbox.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/userfiles\/images\/carousel-homepage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74579,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/userfiles\/images\/carousel-homepage.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/userfiles\/images\/carousel-homepage.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/userfiles\/images\/media-lightbox.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182482,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/userfiles\/images\/media-lightbox.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/userfiles\/images\/media-lightbox.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15826,17 +16309,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/openingsuren-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/openingsuren-min.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/min\/openingsuren-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/src\/Frontend\/Modules\/Openingsuren\/Js\/openingsuren.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -15848,23 +16320,70 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/src\/Frontend\/Modules\/Openingsuren\/Widgets\/Categories.php": {
+	"\/src\/Frontend\/Modules\/Openingsuren\/Widgets\/Openingsuren.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Widgets\/Categories.php",
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Widgets\/Openingsuren.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/Frontend\/Modules\/Openingsuren\/Widgets\/Open.php": {
+	"\/src\/Frontend\/Modules\/OverOns\/Actions\/Category.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Widgets\/Open.php",
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/OverOns\/Actions\/Category.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Modules\/OverOns\/Actions\/Detail.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/OverOns\/Actions\/Detail.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Modules\/OverOns\/Actions\/Index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/OverOns\/Actions\/Index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Modules\/OverOns\/Config.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/OverOns\/Config.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Modules\/OverOns\/Engine\/Model.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/OverOns\/Engine\/Model.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Modules\/OverOns\/Js\/over_ons.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/OverOns\/Js\/over_ons.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/OverOns\/Js\/min\/over_ons-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/src\/Frontend\/Modules\/Pages\/Config.php": {
 		"fileType": 8192,
@@ -16534,6 +17053,39 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/masonry.pkgd.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/masonry.pkgd.min.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/min\/masonry.pkgd.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/theme-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/theme-min.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/min\/theme-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/theme.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/theme.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/theme-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/ui\/Carousel.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -16628,50 +17180,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/janlehnardt\/mustache.js",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/janlehnardt\/min\/mustache-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/ga-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/ga-min.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/min\/ga-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/imgLoad-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/imgLoad-min.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/min\/imgLoad-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/imgLoad.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/imgLoad.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/min\/imgLoad-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/theme-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/theme-min.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/min\/theme-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

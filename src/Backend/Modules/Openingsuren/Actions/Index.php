@@ -59,7 +59,7 @@ class Index extends ActionIndex
                 Language::lbl('Edit')
             );
             $this->dataGrid->setColumnURL(
-                'naam',
+                'dag',
                 Model::createURLForAction('Edit') . '&amp;id=[id]'
             );
         }

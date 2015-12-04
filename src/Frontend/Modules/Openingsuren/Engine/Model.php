@@ -131,15 +131,12 @@ class Model
      *
      * @return array
      */
-    public static function getAllCategories()
+    public static function getAllOpeningsuren()
     {
         $return = (array) FrontendModel::get('database')->getRecords(
-            'SELECT c.id, c.title AS label, m.url, COUNT(c.id) AS total, m.data AS meta_data
-             FROM openingsuren_categories AS c
-             INNER JOIN openingsuren AS i ON c.id = i.category_id AND c.language = i.language
-             INNER JOIN meta AS m ON c.meta_id = m.id
-             GROUP BY c.id
-             ORDER BY c.sequence ASC',
+            'SELECT id, dag AS day, openingsuren as open
+             FROM openingsuren
+             ORDER BY sequence ASC',
             array(),
             'id'
         );
@@ -150,109 +147,6 @@ class Model
                 $row['meta_data'] = unserialize($row['meta_data']);
             }
         }
-
-        return $return;
-    }
-
-
-     /**
-     * Get all open
-     *
-     * @return array
-     */
-    public static function getAllOpen()
-    {
-        $return = (array) FrontendModel::get('database')->getRecords(
-            "SELECT naam as name FROM openingsuren WHERE 
-            (wij_zijn_op_vakantie = 'N') 
-            AND (sluitingsdagen LIKE CONCAT('%',DAY(CURRENT_DATE), '/', MONTH(CURRENT_DATE),'%') = 0)
-            AND
-            (
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR)  BETWEEN maandagvoormiddag_open AND maandagvoormiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'MONDAY'
-                AND maandag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN maandagnamiddag_open AND maandagnamiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'MONDAY'
-                AND maandag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN dinsdagvoormiddag_open AND dinsdagvoormiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'TUESDAY'
-                AND dinsdag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN dinsdagnamiddag_open AND dinsdagnamiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'TUESDAY'
-                AND dinsdag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN woensdagvoormiddag_open AND woensdagvoormiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'WEDNESDAY'
-                AND woensdag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN woensdagnamiddag_open AND woensdagnamiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'WEDNESDAY'
-                AND woensdag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN donderdagvoormiddag_open AND donderdagvoormiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'THURSDAY'
-                AND donderdag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR)  BETWEEN donderdagnamiddag_open AND donderdagnamiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'THURSDAY'
-                AND donderdag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN vrijdagvoormiddag_open AND vrijdagvoormiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'FRIDAY'
-                AND vrijdag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN vrijdagnamiddag_open AND vrijdagnamiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'FRIDAY'
-                AND vrijdag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN zaterdagvoormiddag_open AND zaterdagvoormiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'SATERDAY'
-                AND zaterdag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN zaterdagnamiddag_open AND zaterdagnamiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'SATERDAY'
-                AND zaterdag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN zondagvoormiddag_open AND zondagvoormiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'SUNDAY'
-                AND zondag_open = 'Y'
-            )
-            OR 
-            (
-                DATE_ADD(CURTIME(),  INTERVAL 1 HOUR) BETWEEN zondagnamiddag_open AND zondagnamiddag_sluit
-                AND DAYNAME(CURRENT_DATE) = 'SUNDAY'
-                AND zondag_open = 'Y'
-            )
-            )
-            ");
 
         return $return;
     }

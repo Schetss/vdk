@@ -11,7 +11,7 @@ use Frontend\Modules\Openingsuren\Engine\Model as FrontendOpeningsurenModel;
  *
  * @author Stijn Schets <stijn@schetss.be>
  */
-class Open extends Widget
+class Openingsuren extends Widget
 {
     /**
      * Execute the extra
@@ -23,27 +23,26 @@ class Open extends Widget
         $this->parse();
     }
 
-
     /**
      * Parse
      */
     private function parse()
     {
         // get open
-            $open = FrontendOpeningsurenModel::getAllOpen();
+        $open = FrontendOpeningsurenModel::getAllOpeningsuren();
 
-        // any open?
-        if (!empty($open)) {
-            // build link
-            $link = Navigation::getURLForBlock('Openingsuren', 'Open');
+        // // any open?
+        // if (!empty($open)) {
+        //     // build link
+        //     $link = Navigation::getURLForBlock('Openingsuren', 'category');
 
-            // loop and reset url
-            // foreach ($open as &$row) {
-            //     $row['url'] = $link . '/' . $row['url'];
-            // }
-        }
+        //     // loop and reset url
+        //     foreach ($open as &$row) {
+        //         $row['url'] = $link . '/' . $row['url'];
+        //     }
+        // }
 
         // assign comments
-        $this->tpl->assign('widgetOpeningsurenOpen', $open);
+        $this->tpl->assign('widgetOpeningsuren', $open);
     }
 }

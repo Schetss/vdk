@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<Backend>
+		<OverOns>
+			<item type="label" name="AddOverOns">
+				<translation language="nl"><![CDATA[Over ons toevoegen]]></translation>
+				<translation language="en"><![CDATA[add Over ons]]></translation>
+			</item>
+		</OverOns>
+		<Core>
+			<item type="label" name="OverOns">
+				<translation language="nl"><![CDATA[Over ons]]></translation>
+				<translation language="en"><![CDATA[Over ons]]></translation>
+			</item>
+			<item type="label" name="OverOnsDetail">
+				<translation language="nl"><![CDATA[Over ons detail]]></translation>
+				<translation language="en"><![CDATA[Over ons detail]]></translation>
+			</item>
+			<item type="label" name="OverOnsCategory">
+				<translation language="nl"><![CDATA[Over ons categorie]]></translation>
+				<translation language="en"><![CDATA[Over ons category]]></translation>
+			</item>
+			<item type="message" name="NoCategories">
+				<translation language="en"><![CDATA[no categories]]></translation>
+				<translation language="nl"><![CDATA[geen categorieën]]></translation>
+			</item>
+		</Core>
+	</Backend>
+	<Frontend>
+		<Core>
+		</Core>
+	</Frontend>
+</locale>

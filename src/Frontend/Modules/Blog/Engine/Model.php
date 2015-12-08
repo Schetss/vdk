@@ -16,6 +16,7 @@ use Frontend\Core\Engine\Url as FrontendURL;
 use Frontend\Modules\Tags\Engine\Model as FrontendTagsModel;
 use Frontend\Modules\Tags\Engine\TagsInterface as FrontendTagsInterface;
 
+
 /**
  * In this file we store all generic functions that we will be using in the blog module
  *
@@ -26,6 +27,8 @@ use Frontend\Modules\Tags\Engine\TagsInterface as FrontendTagsInterface;
  * @author Matthias Mullie <forkcms@mullie.eu>
  * @author Dieter Vanden Eynde <dieter.vandeneynde@netlash.com>
  */
+
+
 class Model implements FrontendTagsInterface
 {
     /**
@@ -105,10 +108,12 @@ class Model implements FrontendTagsInterface
             'id'
         );
 
+
         // no results?
         if (empty($items)) {
             return array();
         }
+
 
         // init var
         $link = FrontendNavigation::getURLForBlock('Blog', 'Detail');

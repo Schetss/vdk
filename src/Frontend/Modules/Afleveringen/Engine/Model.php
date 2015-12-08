@@ -136,7 +136,7 @@ class Model
         $return = (array) FrontendModel::get('database')->getRecords(
             'SELECT id, titel AS title, afbeelding as img, datum as date
             FROM afleveringen 
-            ORDER BY datum LIMIT 3',
+            ORDER BY datum LIMIT 5',
             array(),
             'id'
         );

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<Backend>
+		<Service>
+			<item type="label" name="AddService">
+				<translation language="nl"><![CDATA[Service toevoegen]]></translation>
+				<translation language="en"><![CDATA[add Service]]></translation>
+			</item>
+		</Service>
+		<Core>
+			<item type="label" name="Service">
+				<translation language="nl"><![CDATA[Service]]></translation>
+				<translation language="en"><![CDATA[Service]]></translation>
+			</item>
+			<item type="label" name="ServiceDetail">
+				<translation language="nl"><![CDATA[Service detail]]></translation>
+				<translation language="en"><![CDATA[Service detail]]></translation>
+			</item>
+			<item type="label" name="ServiceCategory">
+				<translation language="nl"><![CDATA[Service categorie]]></translation>
+				<translation language="en"><![CDATA[Service category]]></translation>
+			</item>
+			<item type="label" name="ServiceCategory1">
+				<translation language="nl"><![CDATA[Service Categorie 1]]></translation>
+				<translation language="en"><![CDATA[Service Category 1]]></translation>
+			</item>
+			<item type="label" name="ServiceCategory2">
+				<translation language="nl"><![CDATA[Service Categorie 2]]></translation>
+				<translation language="en"><![CDATA[Service Category 2]]></translation>
+			</item>
+			<item type="message" name="NoCategories">
+				<translation language="en"><![CDATA[no categories]]></translation>
+				<translation language="nl"><![CDATA[geen categorieën]]></translation>
+			</item>
+		</Core>
+	</Backend>
+	<Frontend>
+		<Core>
+		</Core>
+	</Frontend>
+</locale>

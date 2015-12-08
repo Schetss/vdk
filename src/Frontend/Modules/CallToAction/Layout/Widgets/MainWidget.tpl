@@ -7,7 +7,7 @@
 	{iteration:widgetCallToActionMainWidget}
 	<div class="block">
 		<div class="grid-item">
-		    <div class="entry entry-box group">
+		    <div class="entry entry-box box group">
 		        <h3>
 	            	<a id="maincontent_0_contentgrid_0_column1_3_HypTeaserTitle" href="{$widgetCallToActionMainWidget.link}">{$widgetCallToActionMainWidget.title}</a>
 		        </h3>

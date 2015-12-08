@@ -1,0 +1,156 @@
+<?php
+
+namespace Backend\Modules\DeHandswagens\Actions;
+
+use Backend\Core\Engine\Base\ActionAdd;
+use Backend\Core\Engine\Form;
+use Backend\Core\Engine\Language;
+use Backend\Core\Engine\Meta;
+use Backend\Core\Engine\Model;
+use Backend\Modules\DeHandswagens\Engine\Model as BackendDeHandswagensModel;
+use Backend\Modules\Search\Engine\Model as BackendSearchModel;
+use Backend\Modules\Tags\Engine\Model as BackendTagsModel;
+use Backend\Modules\Users\Engine\Model as BackendUsersModel;
+
+/**
+ * This is the add-action, it will display a form to create a new item
+ *
+ * @author Stijn Schets <stijn@schetss.be>
+ */
+class Add extends ActionAdd
+{
+    /**
+     * Execute the actions
+     */
+    public function execute()
+    {
+        parent::execute();
+
+        $this->loadForm();
+        $this->validateForm();
+
+        $this->parse();
+        $this->display();
+    }
+
+    /**
+     * Load the form
+     */
+    protected function loadForm()
+    {
+        $this->frm = new Form('add');
+
+        $this->frm->addText('titel', null, null, 'inputText title', 'inputTextError title');
+        $this->frm->addText('subtitel');
+        $this->frm->addEditor('tekst');
+        $this->frm->addFile('pdffile');
+        $this->frm->addCheckbox('verkocht');
+        $this->frm->addImage('afbeelding');
+        $this->frm->addText('tags', null, null, 'inputText tagBox', 'inputTextError tagBox');
+
+        // meta
+        $this->meta = new Meta($this->frm, null, 'titel', true);
+
+    }
+
+    /**
+     * Parse the page
+     */
+    protected function parse()
+    {
+        parent::parse();
+
+        // get url
+        $url = Model::getURLForBlock($this->URL->getModule(), 'Detail');
+        $url404 = Model::getURL(404);
+
+        // parse additional variables
+        if ($url404 != $url) {
+            $this->tpl->assign('detailURL', SITE_URL . $url);
+        }
+        $this->record['url'] = $this->meta->getURL();
+
+    }
+
+    /**
+     * Validate the form
+     */
+    protected function validateForm()
+    {
+        if ($this->frm->isSubmitted()) {
+            $this->frm->cleanupFields();
+
+            // validation
+            $fields = $this->frm->getFields();
+
+            $fields['titel']->isFilled(Language::err('FieldIsRequired'));
+
+            // validate meta
+            $this->meta->validate();
+
+            if ($this->frm->isCorrect()) {
+                // build the item
+                $item = array();
+                $item['language'] = Language::getWorkingLanguage();
+                $item['titel'] = $fields['titel']->getValue();
+                $item['subtitel'] = $fields['subtitel']->getValue();
+                $item['tekst'] = $fields['tekst']->getValue();
+
+                // the file path
+                $filePath = FRONTEND_FILES_PATH . '/' . $this->getModule() . '/files';
+
+                // create folders if needed
+                if (!\SpoonDirectory::exists($filePath)) {
+                    \SpoonDirectory::create($filePath);
+                }
+
+                // file provided?
+                if ($fields['pdffile']->isFilled()) {
+                    // build the file name
+
+                    /**
+                     * @TODO when meta is added, use the meta in the file name
+                     */
+                    $item['pdffile'] = time() . '.' . $fields['pdffile']->getExtension();
+
+                    // upload the file
+                    $fields['pdffile']->moveFile($filePath . '/' . $item['pdffile']);
+                }
+                $item['verkocht'] = $fields['verkocht']->getChecked() ? 'Y' : 'N';
+
+                // the image path
+                $imagePath = FRONTEND_FILES_PATH . '/' . $this->getModule() . '/afbeelding';
+
+                // create folders if needed
+                if (!\SpoonDirectory::exists($imagePath . '/600x600')) {
+                    \SpoonDirectory::create($imagePath . '/600x600');
+                }
+                if (!\SpoonDirectory::exists($imagePath . '/source')) {
+                    \SpoonDirectory::create($imagePath . '/source');
+                }
+
+                // image provided?
+                if ($fields['afbeelding']->isFilled()) {
+                    // build the image name
+                    $item['afbeelding'] = $this->meta->getUrl() . '.' . $fields['afbeelding']->getExtension();
+
+                    // upload the image & generate thumbnails
+                    $fields['afbeelding']->generateThumbnails($imagePath, $item['afbeelding']);
+                }
+                $item['sequence'] = BackendDeHandswagensModel::getMaximumSequence() + 1;
+
+                $item['meta_id'] = $this->meta->save();
+
+                // insert it
+                $item['id'] = BackendDeHandswagensModel::insert($item);
+
+                // save the tags
+                BackendTagsModel::saveTags($item['id'], $fields['tags']->getValue(), $this->URL->getModule());
+
+                $this->redirect(
+                    Model::createURLForAction('Index') . '&report=added&highlight=row-' . $item['id']
+                );
+            }
+        }
+    }
+}

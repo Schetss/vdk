@@ -11,6 +11,8 @@ use Backend\Modules\Afleveringen\Engine\Model as BackendAfleveringenModel;
 use Backend\Modules\Search\Engine\Model as BackendSearchModel;
 use Backend\Modules\Tags\Engine\Model as BackendTagsModel;
 use Backend\Modules\Users\Engine\Model as BackendUsersModel;
+use Backend\Modules\Afleveringen\Engine\Helper as BackendAfleveringenHelper;
+
 
 /**
  * This is the edit-action, it will display a form with the item data to edit

@@ -14423,6 +14423,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/593a621398ae5a5ec917ea73067da1ec_Hover.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/593a621398ae5a5ec917ea73067da1ec_Hover.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/5a747eb6c29b4df068f68fcc71aa69cc_Openingsuren.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14518,6 +14527,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/91ded4d478de40a62d41bdbbd48c0e33_AfleveringenSmallWidget.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/a3a22dc02072c5e3745e7512f76a8434_Detail.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/a3a22dc02072c5e3745e7512f76a8434_Detail.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -15367,6 +15385,72 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Files\/Afleveringen\/100x100\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13315,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/100x100\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/100x100\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/100x100\/145010474254_cd58d81071678d303183fa769839f769.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13920,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/100x100\/145010474254_cd58d81071678d303183fa769839f769.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/100x100\/145010474254_cd58d81071678d303183fa769839f769.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/600x450\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205518,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/600x450\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/600x450\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/600x450\/145010474254_cd58d81071678d303183fa769839f769.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182994,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/600x450\/145010474254_cd58d81071678d303183fa769839f769.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/600x450\/145010474254_cd58d81071678d303183fa769839f769.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/900x600\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 352048,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/900x600\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/900x600\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/900x600\/145010474254_cd58d81071678d303183fa769839f769.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182150,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/900x600\/145010474254_cd58d81071678d303183fa769839f769.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/900x600\/145010474254_cd58d81071678d303183fa769839f769.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/distributie-iets.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15396,6 +15480,28 @@
 		"initialSize": 98890,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/test.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/test.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/vrd-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110066,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/vrd-2.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/vrd-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/vrd-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110066,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/vrd-3.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/vrd-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15444,6 +15550,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/vrd-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 316490,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/vrd-2.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/vrd-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/vrd-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 316490,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/vrd-3.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/vrd-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/vrd.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15488,6 +15616,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/vrd-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134226,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/vrd-2.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/vrd-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/vrd-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134226,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/vrd-3.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/vrd-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/vrd.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15495,6 +15645,116 @@
 		"initialSize": 134226,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/vrd.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/vrd.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/source\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134226,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/source\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/source\/145010473627_ceff2ebd3108b1e4d38804faa5fa7b6d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/source\/145010474254_cd58d81071678d303183fa769839f769.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66182,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/source\/145010474254_cd58d81071678d303183fa769839f769.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/source\/145010474254_cd58d81071678d303183fa769839f769.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010350618_76d9e72087b0393bb16c7658a6fa1ac8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14527,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010350618_76d9e72087b0393bb16c7658a6fa1ac8.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010350618_76d9e72087b0393bb16c7658a6fa1ac8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010351442_a7854e091fb5341509ab02c75e355bb0.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14930,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010351442_a7854e091fb5341509ab02c75e355bb0.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010351442_a7854e091fb5341509ab02c75e355bb0.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010353428_973f314fd76e89bdb940c9fd4f48c9cf.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14527,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010353428_973f314fd76e89bdb940c9fd4f48c9cf.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010353428_973f314fd76e89bdb940c9fd4f48c9cf.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010462892_89b89ca01f087346310a2d7176c45dde.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13315,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010462892_89b89ca01f087346310a2d7176c45dde.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/100x100\/145010462892_89b89ca01f087346310a2d7176c45dde.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010350618_76d9e72087b0393bb16c7658a6fa1ac8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60878,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010350618_76d9e72087b0393bb16c7658a6fa1ac8.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010350618_76d9e72087b0393bb16c7658a6fa1ac8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010351442_a7854e091fb5341509ab02c75e355bb0.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7250,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010351442_a7854e091fb5341509ab02c75e355bb0.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010351442_a7854e091fb5341509ab02c75e355bb0.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010353428_973f314fd76e89bdb940c9fd4f48c9cf.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60878,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010353428_973f314fd76e89bdb940c9fd4f48c9cf.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010353428_973f314fd76e89bdb940c9fd4f48c9cf.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010462892_89b89ca01f087346310a2d7176c45dde.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134226,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010462892_89b89ca01f087346310a2d7176c45dde.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/uploaded_images\/source\/145010462892_89b89ca01f087346310a2d7176c45dde.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -721,6 +721,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/628e7423a6f0609131cefdc40f86c8f2_Comments.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/628e7423a6f0609131cefdc40f86c8f2_Comments.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/6350194b0e6bd6f8e077e6c1d627e9c3_StructureEndModule.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,

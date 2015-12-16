@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<Backend>
+		<Contact>
+			<item type="label" name="AddContact">
+				<translation language="nl"><![CDATA[Contact toevoegen]]></translation>
+				<translation language="en"><![CDATA[add Contact]]></translation>
+			</item>
+		</Contact>
+		<Core>
+			<item type="label" name="Contact">
+				<translation language="nl"><![CDATA[Contact]]></translation>
+				<translation language="en"><![CDATA[Contact]]></translation>
+			</item>
+			<item type="label" name="ContactDetail">
+				<translation language="nl"><![CDATA[Contact detail]]></translation>
+				<translation language="en"><![CDATA[Contact detail]]></translation>
+			</item>
+			<item type="label" name="ContactCategory">
+				<translation language="nl"><![CDATA[Contact categorie]]></translation>
+				<translation language="en"><![CDATA[Contact category]]></translation>
+			</item>
+			<item type="label" name="DirectieWidget">
+				<translation language="nl"><![CDATA[Directie]]></translation>
+				<translation language="en"><![CDATA[Directie]]></translation>
+			</item>
+			<item type="label" name="VerkoopWidget">
+				<translation language="nl"><![CDATA[Verkoop]]></translation>
+				<translation language="en"><![CDATA[Verkoop]]></translation>
+			</item>
+			<item type="message" name="NoCategories">
+				<translation language="en"><![CDATA[no categories]]></translation>
+				<translation language="nl"><![CDATA[geen categorieën]]></translation>
+			</item>
+		</Core>
+	</Backend>
+	<Frontend>
+		<Core>
+		</Core>
+	</Frontend>
+</locale>

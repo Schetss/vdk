@@ -111,9 +111,6 @@ class Edit extends BackendBaseActionEdit
         $this->frm->addText('number', $this->record['number']);
         $this->frm->addText('zip', $this->record['zip']);
         $this->frm->addText('city', $this->record['city']);
-        $this->frm->addText('telephone', $this->record['telephone']);
-        $this->frm->addText('fax', $this->record['fax']);
-        $this->frm->addText('email', $this->record['email']);
         $this->frm->addDropdown('country', Intl::getRegionBundle()->getCountryNames(BL::getInterfaceLanguage()), $this->record['country']);
         $this->frm->addHidden('redirect', 'overview');
     }
@@ -192,9 +189,6 @@ class Edit extends BackendBaseActionEdit
                 $item['zip'] = $this->frm->getField('zip')->getValue();
                 $item['city'] = $this->frm->getField('city')->getValue();
                 $item['country'] = $this->frm->getField('country')->getValue();
-                $item['telephone'] = $this->frm->getField('telephone')->getValue();
-                $item['fax'] = $this->frm->getField('fax')->getValue();
-                $item['email'] = $this->frm->getField('email')->getValue();
 
                 // check if it's necessary to geocode again
                 if ($this->record['lat'] === null || $this->record['lng'] === null || $item['street'] != $this->record['street'] || $item['number'] != $this->record['number'] || $item['zip'] != $this->record['zip'] || $item['city'] != $this->record['city'] || $item['country'] != $this->record['country']) {

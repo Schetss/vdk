@@ -46,9 +46,6 @@ class Add extends BackendBaseActionAdd
         $this->frm->addText('number');
         $this->frm->addText('zip');
         $this->frm->addText('city');
-        $this->frm->addText('telephone');
-        $this->frm->addText('fax');
-        $this->frm->addText('email');
         $this->frm->addDropdown('country', Intl::getRegionBundle()->getCountryNames(BL::getInterfaceLanguage()), 'BE');
     }
 
@@ -76,9 +73,6 @@ class Add extends BackendBaseActionAdd
                 $item['zip'] = $this->frm->getField('zip')->getValue();
                 $item['city'] = $this->frm->getField('city')->getValue();
                 $item['country'] = $this->frm->getField('country')->getValue();
-                $item['telephone'] = $this->frm->getField('telephone')->getValue();
-                $item['fax'] = $this->frm->getField('fax')->getValue();
-                $item['email'] = $this->frm->getField('email')->getValue();
 
                 // define coordinates
                 $coordinates = BackendLocationModel::getCoordinates(

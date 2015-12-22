@@ -6,7 +6,8 @@
 
 {option:widgetLocationItem}
 	{* @remark: do not remove the parseMap-class, it is used by JS *}
-	<div id="map{$widgetLocationItem.id}" class="parseMap" style="height: {$widgetLocationSettings.height}px; width: {$widgetLocationSettings.width}px;"></div>
+	<div id="map{$widgetLocationItem.id}" class="parseMap" style="height: {$widgetLocationSettings.height}px; width: {$widgetLocationSettings.width}px;">
+	</div>
 
 	{option:widgetLocationSettings.directions}
 		<aside id="locationSearch{$widgetLocationItem.id}" class="locationSearch">
@@ -33,4 +34,7 @@
 			{$widgetLocationItem.zip} {$widgetLocationItem.city}
 		</address>
 	</div>
+	<p></p>
 {/option:widgetLocationItem}
+
+<!-- <img alt="" src="/src/Frontend/Files/userfiles/images/carousel-homepage.jpg"> -->

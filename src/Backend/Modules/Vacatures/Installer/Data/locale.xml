@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<Backend>
+		<Vacatures>
+			<item type="label" name="AddVacatures">
+				<translation language="nl"><![CDATA[Vacatures toevoegen]]></translation>
+				<translation language="en"><![CDATA[add Vacatures]]></translation>
+			</item>
+		</Vacatures>
+		<Core>
+			<item type="label" name="Vacatures">
+				<translation language="nl"><![CDATA[Vacatures]]></translation>
+				<translation language="en"><![CDATA[Vacatures]]></translation>
+			</item>
+			<item type="label" name="VacaturesDetail">
+				<translation language="nl"><![CDATA[Vacatures detail]]></translation>
+				<translation language="en"><![CDATA[Vacatures detail]]></translation>
+			</item>
+			<item type="label" name="VacaturesWidget">
+				<translation language="nl"><![CDATA[Vacatures]]></translation>
+				<translation language="en"><![CDATA[Vacatures]]></translation>
+			</item>
+			<item type="message" name="NoCategories">
+				<translation language="en"><![CDATA[no categories]]></translation>
+				<translation language="nl"><![CDATA[geen categorieën]]></translation>
+			</item>
+		</Core>
+	</Backend>
+	<Frontend>
+		<Core>
+		</Core>
+	</Frontend>
+</locale>

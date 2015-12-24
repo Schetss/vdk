@@ -2,5 +2,6 @@
 	variables that are available:
 	- {$widgetContentBlocks}:
 *}
-
-{$widgetContentBlocks.text}
+<div class="grid-item">
+	{$widgetContentBlocks.text}
+</div>

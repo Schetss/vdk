@@ -518,7 +518,7 @@ class Page extends FrontendBaseObject
                     // the block only contains HTML
                     $block = array(
                         'blockIsEditor' => true,
-                        'blockContent' => $block['html']
+                        'blockContent' => "<div class='grid-item editor-block'>" . $block['html'] . "</div>"
                     );
 
                     // Maintain backwards compatibility

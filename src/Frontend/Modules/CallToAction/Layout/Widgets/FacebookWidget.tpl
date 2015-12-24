@@ -8,11 +8,11 @@
 
 		<div class="grid-item">
 				<div class="block">
-			<a href="{$widgetCallToActionFacebook.link}">
+			<a href="{$widgetCallToActionFacebook.link}" target="_blank">
 			<figure class="banner fbBanner">
 			     <img src="{$SITE_URL}/src/Frontend/Files/CallToAction/afbeelding/400x200/{$widgetCallToActionFacebook.img}" class="stacked fbImage">
 			   
-			        <a href="{$widgetCallToActionFacebook.link}" target="" title="" class="button button-att button-banner" text="" parameters="System.Collections.Specialized.NameValueCollection">{$widgetCallToActionFacebook.linktext}</a>
+			        <a href="{$widgetCallToActionFacebook.link}" target="_blank" class="button button-att button-banner"  parameters="System.Collections.Specialized.NameValueCollection">{$widgetCallToActionFacebook.linktext}</a>
 			   		
 			</figure>
 

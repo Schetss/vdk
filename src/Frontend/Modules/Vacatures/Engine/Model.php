@@ -56,6 +56,7 @@ class Model
              FROM vacatures AS i
              INNER JOIN meta AS m ON i.meta_id = m.id
              WHERE i.language = ?
+             AND publiceren = TRUE
              ORDER BY i.sequence ASC, i.id DESC LIMIT ?, ?',
             array(FRONTEND_LANGUAGE, (int) $offset, (int) $limit)
         );

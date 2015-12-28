@@ -49,15 +49,13 @@ class Model
      * @param int $offset The offset.
      * @return array
      */
-    public static function getAll($limit = 10, $offset = 0)
+    public static function getAll()
     {
         $items = (array) FrontendModel::get('database')->getRecords(
-            'SELECT i.*, m.url
-             FROM afleveringen AS i
-             INNER JOIN meta AS m ON i.meta_id = m.id
-             WHERE i.language = ?
-             ORDER BY i.sequence ASC, i.id DESC LIMIT ?, ?',
-            array(FRONTEND_LANGUAGE, (int) $offset, (int) $limit)
+            'SELECT *
+             FROM afleveringen
+             ORDER BY datum DESC',
+            array()
         );
 
         // no results?
@@ -65,14 +63,7 @@ class Model
             return array();
         }
 
-        // get detail action url
-        $detailUrl = Navigation::getURLForBlock('Afleveringen', 'Detail');
-
-        // prepare items for search
-        foreach ($items as &$item) {
-            $item['full_url'] =  $detailUrl . '/' . $item['url'];
-        }
-
+       
         // return
         return $items;
     }
@@ -136,7 +127,7 @@ class Model
         $return = (array) FrontendModel::get('database')->getRecords(
             'SELECT id, titel AS title, afbeelding as img, datum as date
             FROM afleveringen 
-            ORDER BY datum LIMIT 5',
+            ORDER BY datum DESC LIMIT 5',
             array(),
             'id'
         );
@@ -162,7 +153,7 @@ class Model
         $return = (array) FrontendModel::get('database')->getRecords(
             'SELECT id, titel AS title, afbeelding as img, datum as date
             FROM afleveringen 
-            ORDER BY datum LIMIT 2',
+            ORDER BY datum DESC LIMIT 2',
             array(),
             'id'
         );

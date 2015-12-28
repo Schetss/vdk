@@ -27,7 +27,7 @@
 			   		<div class="box-inner box-inner-small">
 			            <h2 class="delta stacked">Test titel</h2>
 			        </div>
-			        <div class="media-lightbox-img"><div class="prev-arrow-widget"></div><img class="media-preview" src="{$SITE_URL}/src/Frontend/Files/Afleveringen/afbeelding/Source/vrd.jpg"><div class="next-arrow-widget"></div>
+			        <div class="media-lightbox-img"><div class="prev-arrow-widget"></div><img class="media-preview" src=""><div class="next-arrow-widget"></div>
 			        </div>
 			    </div>
     			<button class="close close-overlay">close</button>

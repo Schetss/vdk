@@ -172,6 +172,8 @@ class Add extends BackendBaseActionAdd
                     // create folders if needed
                     $fs = new Filesystem();
                     $fs->mkdir(array($imagePath . '/source', $imagePath . '/128x128'));
+                    $fs->mkdir(array($imagePath . '/source', $imagePath . '/800x600'));
+                    $fs->mkdir(array($imagePath . '/source', $imagePath . '/960x400'));
 
                     // image provided?
                     if ($this->frm->getField('image')->isFilled()) {

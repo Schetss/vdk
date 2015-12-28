@@ -14922,6 +14922,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/715d66f67948d25eeec7a51c92288bb8_Cookies.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/715d66f67948d25eeec7a51c92288bb8_Cookies.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/84ee47de9f7fc50c4a6e160d613bf801_Default.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -15963,6 +15972,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/frans.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100069,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/frans.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/frans.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/stijn-schets.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89068,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/stijn-schets.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/stijn-schets.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/stijn-test.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121197,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/stijn-test.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/stijn-test.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/test.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15970,6 +16012,17 @@
 		"initialSize": 98890,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/test.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/test.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/testen-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99049,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/testen-9.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/400x300\/testen-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16029,6 +16082,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/frans.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 320439,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/frans.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/frans.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/stijn-schets.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 306416,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/stijn-schets.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/stijn-schets.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/stijn-test.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261255,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/stijn-test.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/stijn-test.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/test.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16036,6 +16122,17 @@
 		"initialSize": 288794,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/test.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/test.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/testen-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 331526,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/testen-9.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/800x600\/testen-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16095,6 +16192,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/frans.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 502473,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/frans.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/frans.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/stijn-schets.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.82452e+06,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/stijn-schets.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/stijn-schets.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/stijn-test.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60878,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/stijn-test.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/stijn-test.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/test.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16102,6 +16232,17 @@
 		"initialSize": 63779,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/test.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/test.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/testen-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 544609,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/testen-9.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Afleveringen\/afbeelding\/source\/testen-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19158,12 +19299,45 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/imgLoad-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/imgLoad-min.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/min\/imgLoad-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/masonry.pkgd.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/masonry.pkgd.min.js",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/min\/masonry.pkgd.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/modernizr.custom.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/modernizr.custom.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/min\/modernizr.custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/rrssb.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/rrssb.min.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/daf\/theme\/min\/min\/rrssb.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -19780,17 +19954,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/mira\/window\/Window.js",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/mira\/window\/min\/Window-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/src\/Frontend\/Themes\/vdk\/Core\/Js\/modernizr.custom.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/modernizr.custom.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/vdk\/Core\/Js\/min\/modernizr.custom-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

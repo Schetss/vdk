@@ -382,6 +382,9 @@ class Edit extends BackendBaseActionEdit
                     // create folders if needed
                     $fs = new Filesystem();
                     $fs->mkdir(array($imagePath . '/source', $imagePath . '/128x128'));
+                    $fs->mkdir(array($imagePath . '/source', $imagePath . '/800x600'));
+                    $fs->mkdir(array($imagePath . '/source', $imagePath . '/960x400'));
+
 
                     // If the image should be deleted, only the database entry is refreshed.
                     // The revision should keep it's file.

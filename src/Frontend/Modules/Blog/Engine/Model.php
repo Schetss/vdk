@@ -660,7 +660,7 @@ class Model implements FrontendTagsInterface
 
         // get previous post
         $navigation['previous'] = $db->getRecord(
-            'SELECT i.id, i.title, CONCAT(?, m.url) AS url
+            'SELECT i.id, i.title, i.image, CONCAT(?, m.url) AS url
              FROM blog_posts AS i
              INNER JOIN meta AS m ON i.meta_id = m.id
              WHERE i.id != ? AND i.status = ? AND i.hidden = ? AND i.language = ? AND
@@ -672,7 +672,7 @@ class Model implements FrontendTagsInterface
 
         // get next post
         $navigation['next'] = $db->getRecord(
-            'SELECT i.id, i.title, CONCAT(?, m.url) AS url
+            'SELECT i.id, i.title, i.image, CONCAT(?, m.url) AS url
              FROM blog_posts AS i
              INNER JOIN meta AS m ON i.meta_id = m.id
              WHERE i.id != ? AND i.status = ? AND i.hidden = ? AND i.language = ? AND
